@@ -47,6 +47,7 @@ namespace dz1
             Console.WriteLine(myStack.Peek());
 
             Console.ReadKey();
+
         }
     }
 }
